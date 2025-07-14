@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &207280974251256057
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4217438064456005826}
+  - component: {fileID: 7099311644481949006}
+  m_Layer: 0
+  m_Name: Customizer_Customizations
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4217438064456005826
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 207280974251256057}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7099311644481949006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 207280974251256057}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ee75081875e13642a645d6d7d6bf719, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  customizationData:
+    initialized: 0
+    suspensionDistanceFront: 0.2
+    suspensionDistanceRear: 0.2
+    suspensionSpringForceFront: 55000
+    suspensionSpringForceRear: 55000
+    suspensionDamperFront: 3500
+    suspensionDamperRear: 3500
+    suspensionTargetFront: 0.5
+    suspensionTargetRear: 0.5
+    cambersFront: 0
+    cambersRear: 0
+    gearShiftingThreshold: 0.8
+    clutchThreshold: 0.1
+    counterSteering: 1
+    steeringLimiter: 1
+    ABS: 0
+    ESP: 0
+    TCS: 0
+    SH: 0
+    NOS: 0
+    revLimiter: 0
+    automaticTransmission: 0
+    headlightColor: {r: 1, g: 1, b: 1, a: 1}
+    wheelSmokeColor: {r: 1, g: 1, b: 1, a: 1}
+  customizationDataDefault:
+    initialized: 0
+    suspensionDistanceFront: 0.2
+    suspensionDistanceRear: 0.2
+    suspensionSpringForceFront: 55000
+    suspensionSpringForceRear: 55000
+    suspensionDamperFront: 3500
+    suspensionDamperRear: 3500
+    suspensionTargetFront: 0.5
+    suspensionTargetRear: 0.5
+    cambersFront: 0
+    cambersRear: 0
+    gearShiftingThreshold: 0.8
+    clutchThreshold: 0.1
+    counterSteering: 1
+    steeringLimiter: 1
+    ABS: 0
+    ESP: 0
+    TCS: 0
+    SH: 0
+    NOS: 0
+    revLimiter: 0
+    automaticTransmission: 0
+    headlightColor: {r: 1, g: 1, b: 1, a: 1}
+    wheelSmokeColor: {r: 1, g: 1, b: 1, a: 1}

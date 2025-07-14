@@ -1,0 +1,46 @@
+Thank you for purchasing and using Realistic Car Controller!
+
+Package contains all necessary scripts, models, and sound effects for ready to use in any personal / commercial project. However, you can't redistribute/resale/modify and resale/reskin and resale any asset in the project.
+
+Skyline, Driver Sofie, her animations, and her car model made by "3DMaesen". You can access 3DMaesen’s asset store from this link;
+http://u3d.as/2vg
+
+You don't have to give credits, but if you do I would be very grateful. I always would like to see your game in action with RCC.
+
+You will find detailed documentations in the "Documentation" folder also.
+
+[Realistic Car Controller] License Agreement
+
+This License Agreement ("Agreement") is entered into between [BoneCracker Games] ("Licensor") and any individual or entity ("Licensee") accessing or using [Realistic Car Controller] ("Asset") published on the Unity Asset Store.
+
+1. License Grant:
+Licensor grants Licensee a non-exclusive, non-transferable, limited license to use the Asset in accordance with the terms and conditions of this Agreement.
+
+2. Permitted Uses:
+Licensee may use the Asset in any personal or commercial Unity projects. However, the Licensee may not redistribute or resell the Asset in its original or modified form.
+
+3. Restrictions:
+Licensee may not sublicense, sell, rent, lease, lend, redistribute, or otherwise transfer the Asset, in whole or in part, to any third party.
+
+4. Intellectual Property:
+All rights, title, and interest in and to the Asset, including all intellectual property rights, remain with Licensor. Licensee acknowledges that this Agreement does not grant any ownership rights to the Asset.
+
+5. Warranty and Support:
+The Asset is provided "as is" without warranty of any kind, express or implied. Licensor shall not be liable for any damages, including but not limited to direct, indirect, special, or consequential damages arising out of the use or inability to use the Asset.
+
+6. Termination:
+This Agreement shall remain in effect until terminated by either party. Upon termination, Licensee must cease all use of the Asset and destroy any copies in its possession.
+
+7. Governing Law:
+This Agreement shall be governed by and construed in accordance with the laws. Any dispute arising under or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts.
+
+8. Entire Agreement:
+This Agreement constitutes the entire understanding between Licensor and Licensee regarding the Asset and supersedes all prior or contemporaneous agreements and understandings, whether oral or written.
+
+9. Contact Information:
+For any inquiries regarding this Agreement, please contact [bonecrackergames@gmail.com].
+
+By accessing or using the Asset, Licensee agrees to be bound by the terms and conditions of this Agreement. If Licensee does not agree with these terms, Licensee must not access or use the Asset.
+
+Best Regards,
+Bugra

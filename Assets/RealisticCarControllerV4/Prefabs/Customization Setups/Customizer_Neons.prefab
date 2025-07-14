@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7167724747276211754
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7057015765858061292}
+  - component: {fileID: 2731067707844120231}
+  m_Layer: 0
+  m_Name: Neon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7057015765858061292
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7167724747276211754}
+  m_LocalRotation: {x: 0.70710677, y: -0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: -1.11, z: 0}
+  m_LocalScale: {x: 1.75, y: 4.825, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1264781580268671800}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+--- !u!114 &2731067707844120231
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7167724747276211754}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9ed70d61cd9d5449a83eecbef5a0a8b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &7619589891051727446
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1264781580268671800}
+  - component: {fileID: 8267568748212146402}
+  m_Layer: 0
+  m_Name: Customizer_Neons
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1264781580268671800
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7619589891051727446}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7057015765858061292}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8267568748212146402
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7619589891051727446}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 057f1ebb6b78a0e449ef7dae84cfed3f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  index: -1
+  neons:
+  - {fileID: 2100000, guid: ba672ef8e6cfbcb41826f879775e8e9f, type: 2}
+  - {fileID: 2100000, guid: e5549fbb3fe1af9468e0ed995aa05754, type: 2}
+  - {fileID: 2100000, guid: 07d4f3f3228b9fb4ea3cf9f61158de3b, type: 2}
+  - {fileID: 2100000, guid: 6f0158befee49f04b803fbd0bf220613, type: 2}
+  - {fileID: 2100000, guid: b103c5575bdcce7458140ac8bbb0f8ca, type: 2}
+  - {fileID: 2100000, guid: 10af3cf8f819f5c4f8dbacf897d27c54, type: 2}
+  neon_Null: {fileID: 2100000, guid: 288bf1c7ddd42a545825c4b54581936e, type: 2}
